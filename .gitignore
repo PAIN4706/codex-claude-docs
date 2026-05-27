@@ -1,0 +1,12 @@
+node_modules
+docs/.vitepress/dist
+docs/.vitepress/cache
+.DS_Store
+Thumbs.db
+.env
+.env.*
+vitepress-dev*.log
+docx-requirements-extracted.txt
+NEXT_SESSION_MEMORY.md
+site-maintenance-guide.docx
+~$*.docx
